@@ -1,4 +1,4 @@
-# ART-Pi人形检测demo
+# ART-Pi人体检测
 
 ## 简介
 
